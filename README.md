@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @craftywithahybrid
+- 👀 I’m interested in Hacking
+- 🌱 I’m currently learning python
+- 📫 How to reach me hybridcrafty@gmail.com
+- ⚡ Fun fact: I want to get a P.H.D in computer science and cyber security
